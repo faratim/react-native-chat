@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
     nameInput: {
         fontSize: 16,
         fontWeight: '300',
-        color: '#757083',
+        color: '#363636',
         opacity: 50,
     },
 
